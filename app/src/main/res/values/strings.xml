@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">number_database</string>
+    <string name="btnAll">0–9</string>
+    <string name="btnSingle">Vybrat číslo</string>
+    <string name="btnSettings">Nastavení</string>
+    <string name="menu_settings_save">Save</string>
+    <string name="menu_settings_plusAll">Přičti ke všem</string>
+    <string name="settings_0">Počet 0 v databázi: </string>
+    <string name="settings_1">Počet 1 v databázi: </string>
+    <string name="settings_2">Počet 2 v databázi: </string>
+    <string name="settings_3">Počet 3 v databázi: </string>
+    <string name="settings_4">Počet 4 v databázi: </string>
+    <string name="settings_5">Počet 5 v databázi: </string>
+    <string name="settings_6">Počet 6 v databázi: </string>
+    <string name="settings_7">Počet 7 v databázi: </string>
+    <string name="settings_8">Počet 8 v databázi: </string>
+    <string name="settings_9">Počet 9 v databázi: </string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eigth">8</string>
+    <string name="nine">9</string>
+    <string name="X">X</string>
+    <string name="plus">+</string>
+    <string name="menu_draw_all_saveAndNext"> Save and Next</string>
+    <string name="menu_draw_all_camera">Kamera</string>
+    <string name="menu_draw_all_clear">Smaž plochu</string>
+    <string name="menu_draw_all_changeWidth">Změnit šířku štětce</string>
+    <string name="menu_menu_finish">Ukončit aplikaci</string>
+    <string-array name="numbers">
+        <item>NULA</item>
+        <item>JEDNA</item>
+        <item>DVA</item>
+        <item>TŘI</item>
+        <item>ČTYŘI</item>
+        <item>PĚT</item>
+        <item>ŠEST</item>
+        <item>SEDM</item>
+        <item>OSM</item>
+        <item>DEVĚT</item>
+    </string-array>
+    <string name="menu_draw_all_width_8px">Šířka 8 px</string>
+    <string name="menu_draw_all_width_11px">Šířka 11 px</string>
+    <string name="menu_draw_all_width_14px">Šířka 14 px</string>
+    <string name="menu_draw_all_width_17px">Šířka 17 px</string>
+    <string name="menu_draw_all_width_20px">Šířka 20 px</string>
+    <string name="menu_draw_all_width_23px">Šířka 23 px</string>
+    <string name="menu_draw_all_width_26px">Šířka 26 px</string>
+    <string name="menu_settings_reset">Vynulovat vše</string>
+
+</resources>

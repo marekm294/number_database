@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/draw_all_camera"
+        android:icon="@drawable/ic_baseline_photo_camera_24"
+        android:title="@string/menu_draw_all_camera"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/draw_all_saveAndNext"
+        android:icon="@drawable/ic_baseline_save_24"
+        android:title="@string/menu_draw_all_saveAndNext"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/draw_all_clear"
+        android:title="@string/menu_draw_all_clear"/>
+
+    <item
+        android:id="@+id/draw_all_changeWidht"
+        android:title="@string/menu_draw_all_changeWidth" >
+        <menu >
+            <item
+                android:id="@+id/menu_draw_all_width_8px"
+                android:title="@string/menu_draw_all_width_8px"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_draw_all_width_11px"
+                android:title="@string/menu_draw_all_width_11px"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_draw_all_width_14px"
+                android:title="@string/menu_draw_all_width_14px"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_draw_all_width_17px"
+                android:title="@string/menu_draw_all_width_17px"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_draw_all_width_20px"
+                android:title="@string/menu_draw_all_width_20px"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_draw_all_width_23px"
+                android:title="@string/menu_draw_all_width_23px"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_draw_all_width_26px"
+                android:title="@string/menu_draw_all_width_26px"
+                app:showAsAction="withText"/>
+        </menu>
+
+    </item>
+
+</menu>
